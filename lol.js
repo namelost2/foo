@@ -1,2 +1,1 @@
-var x = href="#\
-xd test" + 23;
+var x = href="abc # \xd test" + 23;
